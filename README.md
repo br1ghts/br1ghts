@@ -2,8 +2,6 @@
 
 Welcome to my GitHub playground! I'm a just a guy who loves to tinker with code and build cool stuff.
 
-![Header Image/Logo]((https://pbs.twimg.com/profile_banners/788913752670216192/1710057615/1500x500))
-
 ## Current Projects
 Here's what I'm currently working on:
 
