@@ -12,7 +12,7 @@ Check out my repositories to see more!
 
 
 ## Let's Connect!
-- Twitter: [[Your Twitter Profile](link/to/twitter](https://twitter.com/Mr__Br1ghtSide))
+- Twitter: (https://twitter.com/Mr__Br1ghtSide)
 
 Feel free to reach out if you want to chat about coding, technology, or anything else under the sun!
 
