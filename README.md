@@ -1,3 +1,4 @@
+![MrBrightside](https://github.com/br1ghts/br1ghts/raw/main/Image.webp)
 # 👋 Hello, World! I'm MrBrightSide
 
 Welcome to my corner of the internet! 
