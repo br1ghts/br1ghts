@@ -1,4 +1,4 @@
-![MrBrightside](https://github.com/br1ghts/br1ghts/raw/main/glitch_banner.png)
+<!-- ![MrBrightside](https://github.com/br1ghts/br1ghts/raw/main/glitch_banner.png) -->
 
 # 👋 Hello, World! I'm B
 
